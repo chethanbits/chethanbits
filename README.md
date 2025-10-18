@@ -34,7 +34,7 @@ AI & GenAI Engineer | Python Developer | FastAPI | LangChain | MLOps Learner
 ---
 
 ### 📫 Connect With Me
-📩 Email: your-email@gmail.com  
+📩 Email: 020chethan@gmail.com  
 🔗 LinkedIn: https://linkedin.com/in/chethanbits  
 💻 GitHub: https://github.com/chethanbits  
 
