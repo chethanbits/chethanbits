@@ -22,7 +22,7 @@ AI & GenAI Engineer | Python Developer | FastAPI | LangChain | MLOps Learner
 | Backend | FastAPI, REST APIs |
 | Databases | MongoDB, PostgreSQL, Pinecone, FAISS |
 | Tools | Git, Docker, VS Code |
-| Deployment | AWS (learning), Streamlit, Render, HuggingFace Spaces |
+| Deployment | AWS, Streamlit, HuggingFace Spaces |
 
 ---
 
