@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hey, I'm Chethan  
+AI & GenAI Engineer | Python Developer | FastAPI | LangChain | MLOps Learner
 
-<!--
-**chethanbits/chethanbits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate about building real-world AI applications using GenAI, LLMs, and scalable backend systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔥 About Me
+- 🎓 B.E in Artificial Intelligence & Machine Learning (2025)
+- 🤖 Interested in **AI Engineering, LLMs, RAG Systems, Vector Databases**
+- 🌱 Currently learning **FastAPI, LangChain, AWS, Docker, Pinecone**
+- 🎯 Goal: Become a **GenAI Engineer** and work on production-grade AI systems
+
+---
+
+### 💻 Tech Stack
+| Category | Tools |
+|----------|-------|
+| Languages | Python, SQL |
+| AI & ML | Scikit-learn, TensorFlow/PyTorch (basics), LangChain |
+| LLMs | OpenAI, Groq, Gemini, HuggingFace |
+| Backend | FastAPI, REST APIs |
+| Databases | MongoDB, PostgreSQL, Pinecone, FAISS |
+| Tools | Git, Docker, VS Code |
+| Deployment | AWS (learning), Streamlit, Render, HuggingFace Spaces |
+
+---
+
+### 🚧 Current Work
+- 🔥 Building a **portfolio of GenAI projects**
+- ⚙️ Working on **RAG applications** and **LLM-powered agents**
+- 🧠 Learning **AI system design and deployment**
+
+---
+
+### 📫 Connect With Me
+📩 Email: your-email@gmail.com  
+🔗 LinkedIn: https://linkedin.com/in/chethanbits  
+💻 GitHub: https://github.com/chethanbits  
+
+---
+
+⭐️ **Follow me** for AI + GenAI projects — new repos coming soon!
