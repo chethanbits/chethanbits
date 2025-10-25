@@ -16,7 +16,7 @@ AI & GenAI Engineer | Python Developer | FastAPI | LangChain | MLOps Learner
 ### 💻 Tech Stack
 | Category | Tools |
 |----------|-------|
-| Languages | Python, SQL |
+| Languages | Python, SQL, JavaScript |
 | AI & ML | Scikit-learn, TensorFlow/PyTorch (basics), LangChain |
 | LLMs | OpenAI, Groq, Gemini, HuggingFace |
 | Backend | FastAPI, REST APIs |
